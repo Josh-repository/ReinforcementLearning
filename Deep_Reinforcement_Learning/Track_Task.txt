@@ -1,0 +1,15 @@
+Task Done so far:
+    1. Gone through Initial overview of How 2048 game functions. 
+    2. Understanding in deep how the environment chnages and the role of Q-learning to solve such uncertain/ dynamicaly changing environment.
+    3. Gone through the works implemented in our team regarding Q-learning and noted down the drwabacks
+        3.a. Calculating and storing actions for each state in 2048 games requires countless memory and time.
+        3.b. This drawback makes the performance of our model worse.     
+    3. To overcome such drawback, done some literature review and gone through works related to deep learning associated with supervised and unsupervised approach.
+    4. Later planned to implement Deep Reinforcement learning[Convolution Neural Network and Fully Connected layers] 
+    5. Analyzed the '2048' game built by our team and made some changes in it as per deep Q-learning model.
+    6. Succesfully implemented a agent that learns the environment of 2048.
+    7. The results obtained are documented and conclusion were made.
+
+Task to do:
+    1. Nil.
+
